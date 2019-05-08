@@ -1,0 +1,30 @@
+// FONTS
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+// COLORS
+$HOMEPAGE_BACKGROUND: #E0D8E2; 
+$MAIN_COLOR: #3B2591;
+$SECOND_COLOR: #3B2591;
+$THIRD_COLOR: #FFFFFF;
+
+$MAIN_TEXT: #3B2591;
+$INACTIVE_TEXT: #AFA5D8;
+
+html, body {
+	background-color: $HOMEPAGE_BACKGROUND;
+	font-family: 'Josefin Sans', sans-serif;
+	padding: 0;
+}
+
+// TITLES
+.name, h1 {
+	color: $MAIN_TEXT;
+	font-size: 39px;
+	text-align: center;
+	margin-top: 64px;
+}
+
+
+
+
+
