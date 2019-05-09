@@ -1,13 +1,16 @@
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 html, body {
   background-color: #E0D8E2;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   padding: 0; }
 
 .name, h1 {
   color: #3B2591;
-  font-size: 39px;
-  text-align: center;
-  margin-top: 64px; }
+  font-size: 30px; }
+
+.TopBlock .menu {
+  margin: 0; }
 
 /*# sourceMappingURL=style.css.map */
